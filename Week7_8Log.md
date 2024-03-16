@@ -1,5 +1,5 @@
-# Technical-Log
-# ArcGIS Server on Google Clous Platform (GCP)
+# Technical-Log for Week 7 and 8
+# A. ArcGIS Server on Google Clous Platform (GCP)
 Total time spent: 1.5 hours on 29th of Feb, 2024
 ## 1.	Creating a project 	
 -	Create a new project with suitable name by navigating to new project menu
@@ -38,7 +38,7 @@ Total time spent: 1.5 hours on 29th of Feb, 2024
 -	Go to Compute Engine and VM Instances. Green tick appear when the VM is running.
 -	Click on three dots “More Actions” Drop down menu next to the RDP and select Stop option to turn off the VM.
 
-# Publish Canada Service to your Own GCP VM
+# B. Publish Canada Service to your Own GCP VM
 Total time Spent: 30 minutes on 13/03/2024-14/03/2024
 ### Steps 
 1.	Start your VM on GCP
