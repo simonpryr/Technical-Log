@@ -1,4 +1,4 @@
-# ArcGIS Dashboard
+# ArcGIS Dashboard          Time Spend 2 hours
 ArcGIS Dashboard enables to visualize the location-based data in an intuitive and interactive way. 
 It allows you to monitor events, make decision, inform others, and see trends. 
 A Dashboard has several elements that works togetherwhere every element is unique and has its own unique configuration settings.
