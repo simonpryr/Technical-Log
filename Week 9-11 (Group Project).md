@@ -39,7 +39,7 @@ but can directly use the data from the ArcGIS Living Atlas.
 We were asked to include the Canadian data as well if possible.
 
 # Week 11 Technical Log          
-## Stidied about the ArcGIS Story Map    (Duration: 60 minutes)
+## Studied about the ArcGIS Story Map    (Duration: 60 minutes)
 I Stent some time studying about the ArcGIS Story Map from the ESRI Documentation Page.
 https://doc.arcgis.com/en/arcgis-storymaps/get-started/what-is-arcgis-storymaps.htm
 I got insight about the use of ArcGIS Story Map and some elements that could be included like, map, narrative text, images, videos, embedded items, and other media.
@@ -56,7 +56,7 @@ https://fleming.maps.arcgis.com/home/item.html?id=733b0f81a871423ea1836cd0c812da
 We got the valuable insights about the data visualization and things we 
 could test out in our data.
 
-## Discussion about feedback and listing things to do    (Duration: 20 minutes)
+## Discussion about feedback and listing some things to do    (Duration: 20 minutes)
 1. Search live data of Earthquake for US and Canada
 2. Research on how to Join Two Feature Layer
 3. Research on Convert CSV to Hosted Feature Layer
